@@ -1,0 +1,7 @@
+Requesitos **
+
+pip install PyQt5
+pip install lxml
+pyrcc5 -o resources.py resources.qrc
+RealTimeObjectDetection-main\Tensorflow\labelImg-master> python labelimg.py
+
