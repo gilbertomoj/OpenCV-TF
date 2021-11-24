@@ -1,0 +1,6 @@
+Etapa 1: extrair embeddings do conjunto de dados de rosto
+extract_embeddings.py
+Etapa 2: treinar o modelo de reconhecimento facial
+train_model.py
+Etapa 3: reconhecer rostos com OpenCV
+reconhecer.py
