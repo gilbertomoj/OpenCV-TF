@@ -5,3 +5,6 @@ pip install lxml
 pyrcc5 -o resources.py resources.qrc
 RealTimeObjectDetection-main\Tensorflow\labelImg-master> python labelimg.py
 
+Uteis
+http://note.sonots.com/SciSoftware/haartraining.html
+https://www.tensorflow.org/tutorials/keras/classification?hl=pt-br
